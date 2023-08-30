@@ -1,0 +1,15 @@
+{
+  "name": "exercicio_declarando_tipos_no_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc-watch": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Ramidan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
